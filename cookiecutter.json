@@ -1,0 +1,9 @@
+{
+    "project_name": "default",
+    "project_description": "test",
+    "project_year": "2020",
+    "script_dir_name": "scripts",
+    "python_runtime": "python3.8",
+    "lambda_timeout": 900,
+    "lambda_schedule": "rate(2 minutes)"
+}
